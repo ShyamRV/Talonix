@@ -145,5 +145,3 @@ Follow the repository for updates on advanced music generation, new instrument p
 ## 🙏 Credits
 
 Made by **Shyam**
-
-```
