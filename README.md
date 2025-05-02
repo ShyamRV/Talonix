@@ -144,8 +144,6 @@ Follow the repository for updates on advanced music generation, new instrument p
 
 ## 🙏 Credits
 
-Made with ❤️ by **Shyam**
+Made by **Shyam**
 
 ```
-
----
