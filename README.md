@@ -1,8 +1,4 @@
-Here's your project description perfectly converted into a clean and professional **README.md** format:
 
----
-
-```markdown
 # 🎵 Talonix
 
 **A Python toolkit for procedural music and rhythm generation**
@@ -153,6 +149,3 @@ Made with ❤️ by **Shyam**
 ```
 
 ---
-
-Would you like me to generate a preview image or GitHub-style badge section for this README as well?
-```
