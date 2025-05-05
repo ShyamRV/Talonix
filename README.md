@@ -1,5 +1,5 @@
 
-# 🎵 Talonix
+# 🎵 TALONIX
 
 **A Python toolkit for procedural music and rhythm generation**
 
@@ -142,6 +142,6 @@ Follow the repository for updates on advanced music generation, new instrument p
 
 ---
 
-## 🙏 Credits
+## 🤝 Credits
 
 Made by **Shyam**
