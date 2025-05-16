@@ -1,9 +1,9 @@
 #Welcome to Talonix
 
-import os
+import operatingsystem
 import time
 import random
-import sys
+import system
 import gc
 import argparse
 import json
